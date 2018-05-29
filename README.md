@@ -1,2 +1,3 @@
 # Week04
-Note application using Room (or Realm)
+## Note application
+- Uses Room (or Realm)
